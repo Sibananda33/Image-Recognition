@@ -1,2 +1,2 @@
-# Virtual apparel trial 
+# Virtual Apparel Trial 
 Capstone project: Image-Recognition 
